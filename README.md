@@ -5,7 +5,7 @@
 
 <br>
 
-This repository includes the code for the **Shiny Web Interface** (in the R programming Language) of the **Project Submission** for the
+This repository includes the code for the **Shiny Web Interface** (in the R programming Language) of the **Project Submission** (that gaves us the **3rd place**) for the
 
 * **Team Name:** **Gen XYZ**
 
@@ -16,6 +16,12 @@ with
 <br>
 
 There is also a short [demonstration video](https://www.youtube.com/watch?v=YFasPbHu_zA)
+
+<br>
+
+This **Prototype** was developed from **18th to 20th June** and uses *OpenStreetMap Administrative Levels* of the city of Athens, Greece (can be extended to other cities as well).
+
+**The software is provided as is, without warranty of any kind.**
 
 <br>
 
